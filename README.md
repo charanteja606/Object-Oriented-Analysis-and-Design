@@ -21,4 +21,4 @@ Experiment 20:- Library Management
 Experiment 21:- Hospital Management System
 Experiment 22:- Online Insurance Processing System 
 Experiment 23:- Online Shopping System
-Experiment 24:- 
+Experiment 24:- Online Stock Market System
