@@ -18,3 +18,7 @@ Experiment 17:- Vehicle Registration
 Experiment 18:- Food Delivery
 Experiment 19:- Home Service Maintenence
 Experiment 20:- Library Management
+Experiment 21:- Hospital Management System
+Experiment 22:- Online Insurance Processing System 
+Experiment 23:- Online Shopping System
+Experiment 24:- 
