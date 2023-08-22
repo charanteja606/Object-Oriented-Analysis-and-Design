@@ -22,3 +22,11 @@ Experiment 21:- Hospital Management System
 Experiment 22:- Online Insurance Processing System 
 Experiment 23:- Online Shopping System
 Experiment 24:- Online Stock Market System
+Experiment 25:- Online Voting System
+Experiment 26:- Jwellery Shop Management System
+Experiment 27:- Super Market Management System
+Experiment 28:- Airplane Reservation System
+Experiment 29:- Bus Ticket Reservation System
+Experiment 30:- Train Ticket Reservation System
+Experiment 31:- Agriculture Loan Aggrement System
+Experiment 32:- Jewel Loan management System
